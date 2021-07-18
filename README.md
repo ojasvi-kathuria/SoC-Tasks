@@ -19,6 +19,8 @@ Task 4(B3)
 This was a simple: Age and Gender Detector Program. This captured live image and we used the pre trained model deep learning model to accomplish the task.
 [Task 4](https://github.com/ojasvi-kathuria/SoC-Tasks/blob/main/Task%20_4(B3))
 
+The pre trained model were downloaded from [Model](https://github.com/pydeveloperashish/Age-and-Gender-Recognition/tree/main/models)
+
 Task 5(B4)
 This was a similar task as earlier , the difference lied in the input video. Unlike the above task here we applied the age and gender detector on youtube videos and get the ouput videos in a drive folder we gave in the output directory. 
 [Task 5](https://github.com/ojasvi-kathuria/SoC-Tasks/blob/main/Task%20_5(B4).ipynb)
